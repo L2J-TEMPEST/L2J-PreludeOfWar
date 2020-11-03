@@ -1,6 +1,6 @@
 # L2j mobius PreludeOfWar
 Working features...
-
+L2-thai
 Before Goddess of Destruction:
 -Fantasy Isle Parade
 -Pailaka Injured Dragon
