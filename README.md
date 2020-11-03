@@ -1,7 +1,8 @@
 # L2j mobius PreludeOfWar
 Working features...
 L2-thai
-Before Goddess of Destruction:
+## Before Goddess of Destruction:
+```bash
 -Fantasy Isle Parade
 -Pailaka Injured Dragon
 -All Seven Sign Quests
@@ -11,8 +12,10 @@ Before Goddess of Destruction:
 -Castle Dungeons
 -Fortress Dungeons
 -Prime Shop
+```
 
-Goddess of Destruction:
+## Goddess of Destruction:
+```bash
 -New Talking Island
 -Ancient City Arcan
 -Bloody Swampland
@@ -42,30 +45,38 @@ Goddess of Destruction:
 -Attribute Crystals
 -Ability Points
 -Training Camp
+```
 
-Ertheia:
+## Ertheia:
+```bash
 -Ertheia Race
 -Alchemy
 -Brooch system
 -Luck system
 -Auto fishing
 -Dimensional Warp
+```
 
-Infinite Odyssey:
+## Infinite Odyssey:
+```bash
 -Garden of Spirits
 -Isabella
 -Atelia Fortress
 -Kelbim
 -Enchanted Valley
 -Ashen Shadow Revolutionaries
+```
 
-Underground:
+## Underground:
+```bash
 -Underground Gainak
 -Automated soulshots
 -Daily rewards
 -Attendance rewards
+```
 
-Helios:
+## Helios:
+```bash
 -Dimensional Rift
 -Dimensional Crack
 -Giants Cave
@@ -73,26 +84,36 @@ Helios:
 -Ramona
 -Helios
 -Faction system
+```
 
-Grand Crusade:
+## Grand Crusade:
+```bash
 -Monster Book
 -Live world map information
+```
 
-Salvation:
+## Salvation:
+```bash
 -New Agathion item support
 -New clan system support
+```
 
-Etina's Fate:
+## Etina's Fate:
+```bash
 -Parsed new items from client
 -Artifact item support
+```
 
-Fafurion:
+## Fafurion:
+```bash
 -Support for R110 items
 -Spawned new areas
 -Retail gatekeeper teleports
 -Equipment upgrade system
+```
 
-Events:
+## Events:
+```bash
 -Birth of Draco
 -Character Birthday
 -Eve the Fortune Teller
@@ -113,8 +134,10 @@ Events:
 -Custom Rabbits Event
 -Custom Race Event
 -Custom Team vs Team
+```
 
-Customs:
+## Customs:
+```bash
 -Allowed player races
 -Auto potions command
 -Banking
@@ -140,8 +163,10 @@ Customs:
 -Starting location
 -Vote reward
 -Automated database backups
+```
 
-Others:
+## Others:
+```bash
 -Reworked tax system
 -Reworked quest system
 -Reworked spawn system
@@ -149,7 +174,10 @@ Others:
 -Reworked L2World, L2WorldRegion and L2Object
 -Skill system from L2jUnity
 -GeoEngine from aCis
+```
 
-TODO:
+## TODO:
+```bash
 -Provisional Clan Halls
 -Mystic Tavern instanced zones
+```
