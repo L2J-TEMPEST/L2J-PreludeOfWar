@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+																		<!-- Artifact - P. Skill Critical Rate  Balance -->
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48969" /> <!-- Artifact - P. Skill Critical Rate -->
+	</item>
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +1 -->
+		<ingredient id="48969" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +2 -->
+		<ingredient id="48969" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +3 -->
+		<ingredient id="48969" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +4 -->
+		<ingredient id="48969" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +5 -->
+		<ingredient id="48969" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +6 -->
+		<ingredient id="48969" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +7 -->
+		<ingredient id="48969" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +8 -->
+		<ingredient id="48969" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +9 -->
+		<ingredient id="48969" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +10 -->
+		<ingredient id="48969" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48969" enchantmentLevel="10" count="1" />
+	</item>	
+	
+																		<!-- Artifact - M. Atk Balance -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48970" /> <!-- Artifact - M. Atk -->
+	</item>
+	<item>
+		<!-- Artifact - M. Atk +1 -->
+		<ingredient id="48970" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +2 -->
+		<ingredient id="48970" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +3 -->
+		<ingredient id="48970" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +4 -->
+		<ingredient id="48970" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +5 -->
+		<ingredient id="48970" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +6 -->
+		<ingredient id="48970" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +7 -->
+		<ingredient id="48970" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +8 -->
+		<ingredient id="48970" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Atk +9 -->
+		<ingredient id="48970" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - M. Atk +10 -->
+		<ingredient id="48970" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48970" enchantmentLevel="10" count="1" />
+	</item>	
+	
+																			<!-- Artifact - P. Accuracy -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact FragAtkent -->
+		<production count="1" id="48971" /> <!-- Artifact - P. Accuracy -->
+	</item>
+	<item>
+		<!-- Artifact - P. Accuracy +1 -->
+		<ingredient id="48971" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +2 -->
+		<ingredient id="48971" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +3 -->
+		<ingredient id="48971" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +4 -->
+		<ingredient id="48971" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +5 -->
+		<ingredient id="48971" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +6 -->
+		<ingredient id="48971" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +7 -->
+		<ingredient id="48971" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +8 -->
+		<ingredient id="48971" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Accuracy +9 -->
+		<ingredient id="48971" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - P. Accuracy +10 -->
+		<ingredient id="48971" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48971" enchantmentLevel="10" count="1" />
+	</item>	
+																		<!-- Artifact - Normal Attack Critical Rate -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact FragCastingent -->
+		<production count="1" id="48972" /> <!-- Artifact - Normal Attack Critical Rate -->
+	</item>
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +1 -->
+		<ingredient id="48972" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +2 -->
+		<ingredient id="48972" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +3 -->
+		<ingredient id="48972" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +4 -->
+		<ingredient id="48972" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +5 -->
+		<ingredient id="48972" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +6 -->
+		<ingredient id="48972" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +7 -->
+		<ingredient id="48972" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +8 -->
+		<ingredient id="48972" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +9 -->
+		<ingredient id="48972" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +10 -->
+		<ingredient id="48972" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48972" enchantmentLevel="10" count="1" />
+	</item>	
+	
+																				<!-- Artifact - Normal Attack Critical Rate -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact FragCastingent -->
+		<production count="1" id="48973" /> <!-- Artifact - Normal Attack Critical Rate -->
+	</item>
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +1 -->
+		<ingredient id="48973" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +2 -->
+		<ingredient id="48973" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +3 -->
+		<ingredient id="48973" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +4 -->
+		<ingredient id="48973" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +5 -->
+		<ingredient id="48973" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +6 -->
+		<ingredient id="48973" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +7 -->
+		<ingredient id="48973" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +8 -->
+		<ingredient id="48973" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +9 -->
+		<ingredient id="48973" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Normal Attack Critical Rate +10 -->
+		<ingredient id="48973" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48973" enchantmentLevel="10" count="1" />
+	</item>	
+																		<!-- Artifact - P. Skill Critical Rate -->
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48974" /> <!-- Artifact - P. Skill Critical Rate -->
+	</item>
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +1 -->
+		<ingredient id="48974" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +2 -->
+		<ingredient id="48974" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +3 -->
+		<ingredient id="48974" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +4 -->
+		<ingredient id="48974" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +5 -->
+		<ingredient id="48974" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +6 -->
+		<ingredient id="48974" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +7 -->
+		<ingredient id="48974" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +8 -->
+		<ingredient id="48974" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +9 -->
+		<ingredient id="48974" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - P. Skill Critical Rate +10 -->
+		<ingredient id="48974" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48974" enchantmentLevel="10" count="1" />
+	</item>	
+																		<!-- Artifact - M. Skill Critical Rate -->
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48975" /> <!-- Artifact - M. Skill Critical Rate -->
+	</item>
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +1 -->
+		<ingredient id="48975" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +2 -->
+		<ingredient id="48975" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +3 -->
+		<ingredient id="48975" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +4 -->
+		<ingredient id="48975" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +5 -->
+		<ingredient id="48975" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +6 -->
+		<ingredient id="48975" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +7 -->
+		<ingredient id="48975" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +8 -->
+		<ingredient id="48975" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +9 -->
+		<ingredient id="48975" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - M. Skill Critical Rate +10 -->
+		<ingredient id="48975" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48975" enchantmentLevel="10" count="1" />
+	</item>	
+																		<!-- Artifact - Potion/ Elixir Effect Bonus -->
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48976" /> <!-- Artifact - Potion/ Elixir Effect Bonus -->
+	</item>
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +1 -->
+		<ingredient id="48976" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +2 -->
+		<ingredient id="48976" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +3 -->
+		<ingredient id="48976" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +4 -->
+		<ingredient id="48976" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +5 -->
+		<ingredient id="48976" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +6 -->
+		<ingredient id="48976" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +7 -->
+		<ingredient id="48976" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +8 -->
+		<ingredient id="48976" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +9 -->
+		<ingredient id="48976" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Potion/ Elixir Effect Bonus +10 -->
+		<ingredient id="48976" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48976" enchantmentLevel="10" count="1" />
+	</item>	
+																		<!-- Artifact - Received Damage When Immobilized -->
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48977" /> <!-- Artifact - Received Damage When Immobilized -->
+	</item>
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +1 -->
+		<ingredient id="48977" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +2 -->
+		<ingredient id="48977" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +3 -->
+		<ingredient id="48977" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +4 -->
+		<ingredient id="48977" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +5 -->
+		<ingredient id="48977" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +6 -->
+		<ingredient id="48977" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +7 -->
+		<ingredient id="48977" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +8 -->
+		<ingredient id="48977" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +9 -->
+		<ingredient id="48977" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Received Damage When Immobilized +10 -->
+		<ingredient id="48977" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48977" enchantmentLevel="10" count="1" />
+	</item>	
+</list>

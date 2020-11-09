@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Blessing of the Exalted -->
+		<production count="1" id="45926" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Favor of the Exalted Lv. 1 -->
+		<production count="1" id="45928" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Favor of the Exalted Lv. 2-->
+		<production count="1" id="45870" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Belief of the Exalted -->
+		<production count="1" id="45925" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Fate of the Exalted -->
+		<production count="1" id="46036" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Dignity of the Exalted Lv. 1-->
+		<production count="1" id="45922" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Dignity of the Exalted Lv. 2-->
+		<production count="1" id="45923" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Dignity of the Exalted Lv. 3-->
+		<production count="1" id="45924" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Dignity of the Exalted Lv. 4-->
+		<production count="1" id="47852" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Dignity of the Exalted Lv. 5-->
+		<production count="1" id="47853" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Vitality of the Exalted Lv. 1-->
+		<production count="1" id="47854" />
+    </item>
+    <item>
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Spellbook: Vitality of the Exalted Lv. 2-->
+		<production count="1" id="47855" />
+    </item>
+    <item>
+        <!-- Adena -->
+        <ingredient count="2000000000" id="57" />
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Exalted Cloak -->
+		<production count="1" id="37763" />
+    </item>
+    <item>
+        <!-- Adena -->
+        <ingredient count="2000000000" id="57" />
+        <!-- Elcyum -->
+    	<ingredient count="10000" id="36515" />
+		<!-- Exalted Tiara -->
+		<production count="1" id="45644" />
+    </item>
+</list>

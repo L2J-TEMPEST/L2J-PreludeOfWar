@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+																		<!-- Artifact - Support -->
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48965" /> <!-- Artifact - Support -->
+	</item>
+	<item>
+		<!-- Artifact - XP +1 -->
+		<ingredient id="48965" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +2 -->
+		<ingredient id="48965" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +3 -->
+		<ingredient id="48965" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +4 -->
+		<ingredient id="48965" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +5 -->
+		<ingredient id="48965" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +6 -->
+		<ingredient id="48965" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +7 -->
+		<ingredient id="48965" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +8 -->
+		<ingredient id="48965" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - XP +9 -->
+		<ingredient id="48965" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - XP +10 -->
+		<ingredient id="48965" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48965" enchantmentLevel="10" count="1" />
+	</item>	
+	
+																		<!-- Artifact - Vampiric Rage -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48966" /> <!-- Artifact - Vampiric Rage -->
+	</item>
+	<item>
+		<!-- Artifact - Vampiric Rage +1 -->
+		<ingredient id="48966" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +2 -->
+		<ingredient id="48966" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +3 -->
+		<ingredient id="48966" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +4 -->
+		<ingredient id="48966" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +5 -->
+		<ingredient id="48966" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +6 -->
+		<ingredient id="48966" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +7 -->
+		<ingredient id="48966" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +8 -->
+		<ingredient id="48966" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Vampiric Rage +9 -->
+		<ingredient id="48966" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Vampiric. Rage +10 -->
+		<ingredient id="48966" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48966" enchantmentLevel="10" count="1" />
+	</item>	
+	
+																			<!-- Artifact - Speed -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact FragRageent -->
+		<production count="1" id="48967" /> <!-- Artifact - Speed -->
+	</item>
+	<item>
+		<!-- Artifact - Speed +1 -->
+		<ingredient id="48967" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +2 -->
+		<ingredient id="48967" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +3 -->
+		<ingredient id="48967" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +4 -->
+		<ingredient id="48967" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +5 -->
+		<ingredient id="48967" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +6 -->
+		<ingredient id="48967" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +7 -->
+		<ingredient id="48967" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +8 -->
+		<ingredient id="48967" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Speed +9 -->
+		<ingredient id="48967" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Speed +10 -->
+		<ingredient id="48967" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48967" enchantmentLevel="10" count="1" />
+	</item>	
+																		<!-- Artifact - Received Healing -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact FragCastingent -->
+		<production count="1" id="48968" /> <!-- Artifact - Received Healing -->
+	</item>
+	<item>
+		<!-- Artifact - Received Healing +1 -->
+		<ingredient id="48968" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +2 -->
+		<ingredient id="48968" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +3 -->
+		<ingredient id="48968" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +4 -->
+		<ingredient id="48968" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +5 -->
+		<ingredient id="48968" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +6 -->
+		<ingredient id="48968" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +7 -->
+		<ingredient id="48968" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +8 -->
+		<ingredient id="48968" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Received Healing +9 -->
+		<ingredient id="48968" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Received Healing +10 -->
+		<ingredient id="48968" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48968" enchantmentLevel="10" count="1" />
+	</item>	
+</list>

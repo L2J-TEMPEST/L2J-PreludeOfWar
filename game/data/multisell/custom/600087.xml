@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Gran Kain Necklace -->
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23189" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23190" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23191" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23192" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23193" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23194" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23195" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23196" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23197" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23234" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23235" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23487" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23493" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23494" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23495" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23496" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23503" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23504" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23505" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23506" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23564" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23565" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23566" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23567" /> <!-- aparence stone -->
+	</item>
+	
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23380" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="23382" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="24134" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="26252" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="26334" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="26336" /> <!-- aparence stone -->
+	</item><item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="29207" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="29208" /> <!-- aparence stone -->
+	</item>
+	<item>
+		<ingredient count="10000000" id="57" /> <!-- Adena -->
+		<ingredient count="100" id="6673" /> <!-- Festival adena -->
+		<production count="1" id="29209" /> <!-- aparence stone -->
+	</item>	
+</list>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

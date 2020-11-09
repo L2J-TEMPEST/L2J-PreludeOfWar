@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38895" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38890" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38880" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38875" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38927" />
+	</item>
+<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38855" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38870" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38885" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="26497" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="47677" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="27480" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="27474" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="47682" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38850" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="26481" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<production count="1" id="38766" />
+	</item>
+	<item>
+		<!-- Adena -->                                <!-- Fragment -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="1" id="38766" />
+		<production count="1" id="38767" />
+	</item>
+	<item>
+		<!-- Adena -->                                <!-- Fragment -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="1" id="38767" />
+		<production count="1" id="38768" />
+	</item>
+	<item>
+		<!-- Adena -->                                <!-- Fragment -->
+		<ingredient count="10000000000" id="57" />
+		<ingredient count="100" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="26474" />
+	</item>
+	<item>
+		<!-- Adena -->                                <!-- Fragment -->
+		<ingredient count="10000000000" id="57" />
+		<ingredient count="250" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="1" id="26474" />
+		<production count="1" id="28358" />
+	</item>
+	<item>
+		<!-- Adena -->                                <!-- Fragment -->
+		<ingredient count="10000000000" id="57" />
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="1" id="28358" />
+		<production count="1" id="28488" />
+	</item>
+	<item>
+		<ingredient count="1" id="47695" /> <!-- Greater Pearl (lvl 1) -->
+		<ingredient count="1" id="47695" /> <!-- Greater Pearl (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48799" /> <!-- Greater Pearl (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48799" /> <!-- Greater Pearl (lvl 2) -->
+		<ingredient count="1" id="48799" /> <!-- Greater Pearl (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48800" /> <!-- Greater Pearl (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48800" /> <!-- Greater Pearl (lvl 3) -->
+		<ingredient count="1" id="48800" /> <!-- Greater Pearl (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48801" /> <!-- Greater Pearl (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48801" /> <!-- Greater Pearl (lvl 4) -->
+		<ingredient count="1" id="48801" /> <!-- Greater Pearl (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48802" /> <!-- Greater Pearl (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47694" /> <!-- Greater Diamond (lvl 1) -->
+		<ingredient count="1" id="47694" /> <!-- Greater Diamond (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48795" /> <!-- Greater Diamon (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48795" /> <!-- Greater Diamond (lvl 2) -->
+		<ingredient count="1" id="48795" /> <!-- Greater Diamond (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48796" /> <!-- Greater Diamon (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48796" /> <!-- Greater Diamond (lvl 3) -->
+		<ingredient count="1" id="48796" /> <!-- Greater Diamond (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48797" /> <!-- Greater Diamon (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48797" /> <!-- Greater Diamond (lvl 4) -->
+		<ingredient count="1" id="48797" /> <!-- Greater Diamond (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48798" /> <!-- Greater Diamon (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47692" /> <!-- Greater Emerald (lvl 1) -->
+		<ingredient count="1" id="47692" /> <!-- Greater Emerald (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48787" /> <!-- Greater Emerald (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48787" /> <!-- Greater Emerald (lvl 2) -->
+		<ingredient count="1" id="48787" /> <!-- Greater Emerald (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48788" /> <!-- Greater Emerald (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48788" /> <!-- Greater Emerald (lvl 3) -->
+		<ingredient count="1" id="48788" /> <!-- Greater Emerald (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48789" /> <!-- Greater Emerald (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48789" /> <!-- Greater Emerald (lvl 4) -->
+		<ingredient count="1" id="48789" /> <!-- Greater Emerald (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48790" /> <!-- Greater Emerald (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47691" /> <!-- Greater Opal (lvl 1) -->
+		<ingredient count="1" id="47691" /> <!-- Greater Opal (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48783" /> <!-- Greater Opal (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48783" /> <!-- Greater Opal (lvl 2) -->
+		<ingredient count="1" id="48783" /> <!-- Greater Opal (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48784" /> <!-- Greater Opal (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48784" /> <!-- Greater Opal (lvl 3) -->
+		<ingredient count="1" id="48784" /> <!-- Greater Opal (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48785" /> <!-- Greater Opal (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48785" /> <!-- Greater Opal (lvl 4) -->
+		<ingredient count="1" id="48785" /> <!-- Greater Opal (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48786" /> <!-- Greater Opal (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47689" /> <!-- Greater Sapphire (lvl 1) -->
+		<ingredient count="1" id="47689" /> <!-- Greater Sapphire (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48775" /> <!-- Greater Sapphire (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48775" /> <!-- Greater Sapphire (lvl 2) -->
+		<ingredient count="1" id="48775" /> <!-- Greater Sapphire (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48776" /> <!-- Greater Sapphire (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48776" /> <!-- Greater Sapphire (lvl 3) -->
+		<ingredient count="1" id="48776" /> <!-- Greater Sapphire (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48777" /> <!-- Greater Sapphire (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48777" /> <!-- Greater Sapphire (lvl 4) -->
+		<ingredient count="1" id="48777" /> <!-- Greater Sapphire (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48778" /> <!-- Greater Sapphire (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47688" /> <!-- Greater Ruby (lvl 1) -->
+		<ingredient count="1" id="47688" /> <!-- Greater Ruby (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48771" /> <!-- Greater Ruby (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48771" /> <!-- Greater Ruby (lvl 2) -->
+		<ingredient count="1" id="48771" /> <!-- Greater Ruby (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48772" /> <!-- Greater Ruby (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48772" /> <!-- Greater Ruby (lvl 3) -->
+		<ingredient count="1" id="48772" /> <!-- Greater Ruby (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48773" /> <!-- Greater Ruby (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48773" /> <!-- Greater Ruby (lvl 4) -->
+		<ingredient count="1" id="48773" /> <!-- Greater Ruby (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48774" /> <!-- Greater Ruby (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47690" /> <!-- Greater Obsidian (lvl 1) -->
+		<ingredient count="1" id="47690" /> <!-- Greater Obsidian (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48779" /> <!-- Greater Obsidian (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48779" /> <!-- Greater Obsidian (lvl 2) -->
+		<ingredient count="1" id="48779" /> <!-- Greater Obsidian (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48780" /> <!-- Greater Obsidian (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48780" /> <!-- Greater Obsidian (lvl 3) -->
+		<ingredient count="1" id="48780" /> <!-- Greater Obsidian (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48781" /> <!-- Greater Obsidian (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48781" /> <!-- Greater Obsidian (lvl 4) -->
+		<ingredient count="1" id="48781" /> <!-- Greater Obsidian (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48782" /> <!-- Greater Obsidian (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47693" /> <!-- Greater Aquamarine (lvl 1) -->
+		<ingredient count="1" id="47693" /> <!-- Greater Aquamarine (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48791" /> <!-- Greater Aquamarine (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48791" /> <!-- Greater Aquamarine (lvl 2) -->
+		<ingredient count="1" id="48791" /> <!-- Greater Aquamarine (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48792" /> <!-- Greater Aquamarine (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48792" /> <!-- Greater Aquamarine (lvl 3) -->
+		<ingredient count="1" id="48792" /> <!-- Greater Aquamarine (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48793" /> <!-- Greater Aquamarine (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48793" /> <!-- Greater Aquamarine (lvl 4) -->
+		<ingredient count="1" id="48793" /> <!-- Greater Aquamarine (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48794" /> <!-- Greater Aquamarine (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47696" /> <!-- Greater Vital Stone (lvl 1) -->
+		<ingredient count="1" id="47696" /> <!-- Greater Vital Stone (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48803" /> <!-- Greater Vital Stone (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48803" /> <!-- Greater Vital Stone (lvl 2) -->
+		<ingredient count="1" id="48803" /> <!-- Greater Vital Stone (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48804" /> <!-- Greater Vital Stone (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48804" /> <!-- Greater Vital Stone (lvl 3) -->
+		<ingredient count="1" id="48804" /> <!-- Greater Vital Stone (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48805" /> <!-- Greater Vital Stone (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48805" /> <!-- Greater Vital Stone (lvl 4) -->
+		<ingredient count="1" id="48805" /> <!-- Greater Vital Stone (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48806" /> <!-- Greater Vital Stone (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47698" /> <!-- Greater Tanzanite (lvl 1) -->
+		<ingredient count="1" id="47698" /> <!-- Greater Tanzanite (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48811" /> <!-- Greater Tanzanite (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48811" /> <!-- Greater Tanzanite (lvl 2) -->
+		<ingredient count="1" id="48811" /> <!-- Greater Tanzanite (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48812" /> <!-- Greater Tanzanite (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48812" /> <!-- Greater Tanzanite (lvl 3) -->
+		<ingredient count="1" id="48812" /> <!-- Greater Tanzanite (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48813" /> <!-- Greater Tanzanite (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48813" /> <!-- Greater Tanzanite (lvl 4) -->
+		<ingredient count="1" id="48813" /> <!-- Greater Tanzanite (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48814" /> <!-- Greater Tanzanite (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="28376" /> <!-- Greater Cat Eye (lvl 1) -->
+		<ingredient count="1" id="28376" /> <!-- Greater Cat Eye (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="29455" /> <!-- Greater Cat Eye (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="29455" /> <!-- Greater Cat Eye (lvl 2) -->
+		<ingredient count="1" id="29455" /> <!-- Greater Cat Eye (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="29456" /> <!-- Greater Cat Eye (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="29456" /> <!-- Greater Cat Eye (lvl 3) -->
+		<ingredient count="1" id="29456" /> <!-- Greater Cat Eye (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="29457" /> <!-- Greater Cat Eye (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="29457" /> <!-- Greater Cat Eye (lvl 4) -->
+		<ingredient count="1" id="29457" /> <!-- Greater Cat Eye (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="29458" /> <!-- Greater Cat Eye (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47699" /> <!-- Greater Red Cat Eye (lvl 1) -->
+		<ingredient count="1" id="47699" /> <!-- Greater Red Cat Eye (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48815" /> <!-- Greater Red Cat Eye (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48815" /> <!-- Greater Red Cat Eye (lvl 2) -->
+		<ingredient count="1" id="48815" /> <!-- Greater Red Cat Eye (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48816" /> <!-- Greater Red Cat Eye (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48816" /> <!-- Greater Red Cat Eye (lvl 3) -->
+		<ingredient count="1" id="48816" /> <!-- Greater Red Cat Eye (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48817" /> <!-- Greater Red Cat Eye (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48817" /> <!-- Greater Red Cat Eye (lvl 4) -->
+		<ingredient count="1" id="48817" /> <!-- Greater Red Cat Eye (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48818" /> <!-- Greater Red Cat Eye (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47700" /> <!-- Greater Blue Cat Eye (lvl 1) -->
+		<ingredient count="1" id="47700" /> <!-- Greater Blue Cat Eye (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48819" /> <!-- Greater Blue Cat Eye (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48819" /> <!-- Greater Blue Cat Eye (lvl 2) -->
+		<ingredient count="1" id="48819" /> <!-- Greater Blue Cat Eye (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48820" /> <!-- Greater Blue Cat Eye (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48820" /> <!-- Greater Blue Cat Eye (lvl 3) -->
+		<ingredient count="1" id="48820" /> <!-- Greater Blue Cat Eye (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48821" /> <!-- Greater Blue Cat Eye (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48821" /> <!-- Greater Blue Cat Eye (lvl 4) -->
+		<ingredient count="1" id="48821" /> <!-- Greater Blue Cat Eye (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48822" /> <!-- Greater Blue Cat Eye (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47687" /> <!-- Greater Topaz (lvl 1) -->
+		<ingredient count="1" id="47687" /> <!-- Greater Topaz (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48767" /> <!-- Greater Topaz (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48767" /> <!-- Greater Topaz (lvl 2) -->
+		<ingredient count="1" id="48767" /> <!-- Greater Topaz (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48768" /> <!-- Greater Topaz (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48768" /> <!-- Greater Topaz (lvl 3) -->
+		<ingredient count="1" id="48768" /> <!-- Greater Topaz (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48769" /> <!-- Greater Topaz (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48769" /> <!-- Greater Topaz (lvl 4) -->
+		<ingredient count="1" id="48769" /> <!-- Greater Topaz (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48770" /> <!-- Greater Topaz (lvl 5) -->
+	</item>
+	<item>
+		<ingredient count="1" id="47697" /> <!-- Greater Garnet (lvl 1) -->
+		<ingredient count="1" id="47697" /> <!-- Greater Garnet (lvl 1) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48807" /> <!-- Greater Garnet (lvl 2) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48807" /> <!-- Greater Garnet (lvl 2) -->
+		<ingredient count="1" id="48807" /> <!-- Greater Garnet (lvl 2) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48808" /> <!-- Greater Garnet (lvl 3) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48808" /> <!-- Greater Garnet (lvl 3) -->
+		<ingredient count="1" id="48808" /> <!-- Greater Garnet (lvl 3) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48809" /> <!-- Greater Garnet (lvl 4) -->
+	</item>
+	<item>
+		<ingredient count="1" id="48809" /> <!-- Greater Garnet (lvl 4) -->
+		<ingredient count="1" id="48809" /> <!-- Greater Garnet (lvl 4) -->
+		<ingredient count="500" id="6673" /> <!-- Festival Adena -->
+		<production count="1" id="48810" /> <!-- Greater Garnet (lvl 5) -->
+	</item>
+</list>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

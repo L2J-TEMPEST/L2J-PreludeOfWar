@@ -5,32 +5,69 @@
 	</npcs>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="46444" />
+		<ingredient count="500000" id="57" />
+		<production count="1" id="46458" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="46459" />
+		<ingredient count="500000" id="57" />
+		<production count="1" id="46473" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="46474" />
+		<ingredient count="500000" id="57" />
+		<production count="1" id="46488" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="46489" />
+		<ingredient count="500000" id="57" />
+		<production count="1" id="46503" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="46504" />
+		<ingredient count="500000" id="57" />
+		<production count="1" id="46518" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="2000000" id="57" />
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
 		<production count="1" id="46553" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
+		<production count="1" id="47116" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
+		<production count="1" id="47109" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
+		<production count="1" id="47098" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15000" id="36515" />
+		<ingredient count="1000" id="6393" />
+		<production count="1" id="48202" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15000" id="36515" />
+		<ingredient count="1000" id="6393" />
+		<production count="1" id="48205" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15000" id="36515" />
+		<ingredient count="1000" id="6393" />
+		<production count="1" id="48208" />
 	</item>
 </list>

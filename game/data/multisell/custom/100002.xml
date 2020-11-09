@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+																		<!-- Artifact - P. Def -->
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48961" /> <!-- Artifact - P. Def -->
+	</item>
+	<item>
+		<!-- Artifact - P. Def +1 -->
+		<ingredient id="48961" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +2 -->
+		<ingredient id="48961" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +3 -->
+		<ingredient id="48961" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +4 -->
+		<ingredient id="48961" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +5 -->
+		<ingredient id="48961" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +6 -->
+		<ingredient id="48961" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +7 -->
+		<ingredient id="48961" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +8 -->
+		<ingredient id="48961" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - P. Def +9 -->
+		<ingredient id="48961" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - P. Def +10 -->
+		<ingredient id="48961" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48961" enchantmentLevel="10" count="1" />
+	</item>	
+	
+																		<!-- Artifact - M. Def -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact Fragment -->
+		<production count="1" id="48962" /> <!-- Artifact - M. Def -->
+	</item>
+	<item>
+		<!-- Artifact - M. Def +1 -->
+		<ingredient id="48962" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +2 -->
+		<ingredient id="48962" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +3 -->
+		<ingredient id="48962" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +4 -->
+		<ingredient id="48962" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +5 -->
+		<ingredient id="48962" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +6 -->
+		<ingredient id="48962" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +7 -->
+		<ingredient id="48962" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +8 -->
+		<ingredient id="48962" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - M. Def +9 -->
+		<ingredient id="48962" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - M. Def +10 -->
+		<ingredient id="48962" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48962" enchantmentLevel="10" count="1" />
+	</item>	
+	
+																			<!-- Artifact - Max HP -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact FragDefent -->
+		<production count="1" id="48963" /> <!-- Artifact - Max HP -->
+	</item>
+	<item>
+		<!-- Artifact - Max HP +1 -->
+		<ingredient id="48963" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +2 -->
+		<ingredient id="48963" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +3 -->
+		<ingredient id="48963" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +4 -->
+		<ingredient id="48963" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +5 -->
+		<ingredient id="48963" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +6 -->
+		<ingredient id="48963" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +7 -->
+		<ingredient id="48963" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +8 -->
+		<ingredient id="48963" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max HP +9 -->
+		<ingredient id="48963" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Max HP +10 -->
+		<ingredient id="48963" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48963" enchantmentLevel="10" count="1" />
+	</item>	
+																		<!-- Artifact - Max MP -->
+	
+	<item>
+		<ingredient count="300" id="80000" /> <!-- Artifact FragCastingent -->
+		<production count="1" id="48964" /> <!-- Artifact - Max MP -->
+	</item>
+	<item>
+		<!-- Artifact - Max MP +1 -->
+		<ingredient id="48964" enchantmentLevel="0" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="1" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +2 -->
+		<ingredient id="48964" enchantmentLevel="1" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="2" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +3 -->
+		<ingredient id="48964" enchantmentLevel="2" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="3" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +4 -->
+		<ingredient id="48964" enchantmentLevel="3" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="4" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +5 -->
+		<ingredient id="48964" enchantmentLevel="4" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="5" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +6 -->
+		<ingredient id="48964" enchantmentLevel="5" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="6" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +7 -->
+		<ingredient id="48964" enchantmentLevel="6" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="7" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +8 -->
+		<ingredient id="48964" enchantmentLevel="7" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="8" count="1" />
+	</item>	
+	<item>
+		<!-- Artifact - Max MP +9 -->
+		<ingredient id="48964" enchantmentLevel="8" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="9" count="1" />
+	</item>
+	<item>
+		<!-- Artifact - Max MP +10 -->
+		<ingredient id="48964" enchantmentLevel="9" count="1" />
+		<ingredient id="80000" enchantmentLevel="0" count="100" />
+		<production id="48964" enchantmentLevel="10" count="1" />
+	</item>	
+</list>
+	

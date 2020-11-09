@@ -111,4 +111,52 @@
 		<!-- Scroll: Enchant Weapon (R-grade) -->
 		<production count="1" id="17526" />
 	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Ancient Scroll: Enchant Armor (R-grade) -->
+		<production count="1" id="23344" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100000000" id="57" />
+		<!-- Ancient Scroll: Enchant Weapon (R-grade) -->
+		<production count="1" id="23342" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000" id="36515" />
+		<!-- Heavenly Scroll: Enchant Weapon (R-grade) -->
+		<production count="1" id="23343" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000" id="36515" />
+		<!-- Heavenly Scroll: Enchant Armor (R-grade) -->
+		<production count="1" id="23345" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6393" />
+		<!-- Scroll: Enchant Fallen Angel Accessory -->
+		<production count="1" id="48863" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6393" />
+		<!-- Scroll: Enchant Fallen Angel Accessory -->
+		<production count="1" id="48668" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6393" />
+		<!-- Scroll: Enchant Blessed Bracelet -->
+		<production count="1" id="80838" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10" id="6673" />
+		<!-- Scroll: Enchant Cloak -->
+		<production count="1" id="28593" />
+	</item>	
 </list>

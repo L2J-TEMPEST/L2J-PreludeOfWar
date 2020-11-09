@@ -120,28 +120,38 @@
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
 		<production count="1" id="48841" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
 		<production count="1" id="48669" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
 		<production count="1" id="80333" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
 		<production count="1" id="80334" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
 		<production count="1" id="80335" />
+	</item>
+	<item>
+		<ingredient count="5000" id="36515" />
+		<ingredient count="500" id="6393" />
+		<production count="1" id="47214" />
 	</item>
 
 

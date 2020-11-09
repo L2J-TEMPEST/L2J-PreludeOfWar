@@ -5,78 +5,6 @@
 	</npcs>
 	<item>
 		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak -->
-		<production count="1" id="13687" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak (Light Armor) -->
-		<production count="1" id="13688" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak (Robe) -->
-		<production count="1" id="13689" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak (Kamael) -->
-		<production count="1" id="13690" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak (Kamael) -->
-		<production count="1" id="13889" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak -->
-		<production count="1" id="13890" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak (Light Armor) -->
-		<production count="1" id="13891" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak (Robe) -->
-		<production count="1" id="13892" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak -->
-		<production count="1" id="14601" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak (Light Armor) -->
-		<production count="1" id="14608" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak -->
-		<production count="1" id="14609" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak (Robe) -->
-		<production count="1" id="14610" />
-	</item>
-	<item>
-		<!-- Adena -->
 		<ingredient count="50000000" id="57" />
 		<production count="1" id="21716" />
 	</item>
@@ -117,33 +45,15 @@
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="50000000" id="57" />
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="5000" id="36515" />
 		<production count="1" id="26249" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="50000000" id="57" />
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="5000" id="36515" />
 		<production count="1" id="26250" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="50000000" id="57" />
-		<production count="1" id="28585" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="50000000" id="57" />
-		<production count="1" id="28586" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="50000000" id="57" />
-		<production count="1" id="28587" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="50000000" id="57" />
-		<production count="1" id="28588" />
 	</item>
 	<item>
 		<!-- Adena -->
@@ -198,11 +108,6 @@
 	<item>
 		<!-- Adena -->
 		<ingredient count="50000000" id="57" />
-		<production count="1" id="37763" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="50000000" id="57" />
 		<production count="1" id="30372" />
 	</item>
 	<item>
@@ -214,5 +119,23 @@
 		<!-- Adena -->
 		<ingredient count="50000000" id="57" />
 		<production count="1" id="80321" />
+	</item>
+	<item>
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="5000" id="6393" />
+		<ingredient count="5000" id="6673" />
+		<production count="1" id="28585" />
+	</item>
+	<item>
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="5000" id="6393" />
+		<ingredient count="5000" id="6673" />
+		<production count="1" id="28587" />
+	</item>
+	<item>
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="5000" id="6393" />
+		<ingredient count="5000" id="6673" />
+		<production count="1" id="28588" />
 	</item>
 </list>

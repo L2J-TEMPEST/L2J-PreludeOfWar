@@ -3,42 +3,7 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
-	<item>
-		<!-- Adena -->
-		<ingredient count="216000" id="57" />
-		<production count="1" id="9589" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="480000" id="57" />
-		<production count="1" id="9590" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="1144000" id="57" />
-		<production count="1" id="9591" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="3556000" id="57" />
-		<production count="1" id="9592" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="1144000" id="57" />
-		<production count="1" id="10209" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="3556000" id="57" />
-		<production count="1" id="10210" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="3556000" id="57" />
-		<production count="1" id="19449" />
-	</item>
-	<item>
+		<item>
 		<!-- Adena -->
 		<ingredient count="3556000" id="57" />
 		<production count="1" id="19455" />
@@ -105,8 +70,60 @@
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="3556000" id="57" />
+		<ingredient count="500000000" id="57" />
 		<production count="1" id="40196" />
 	</item>
-
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40005" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40010" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40015" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40020" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40025" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40030" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40035" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000" id="36515" />
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="40040" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1500000000" id="57" />
+		<production count="1" id="48076" />
+	</item>
 </list>

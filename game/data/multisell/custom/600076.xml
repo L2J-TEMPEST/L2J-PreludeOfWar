@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80090" /> <!-- Krishna Shaper -->
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80091" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80092" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80093" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80094" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80095" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80096" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80097" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80098" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80099" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80100" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80101" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80102" /> 
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80103" /> 
+	</item>
+</list>

@@ -5,123 +5,80 @@
 	</npcs>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
+		<ingredient count="20000" id="57" />
+		<!-- Mana Potion -->
 		<production count="1" id="728" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
+		<ingredient count="20000" id="57" />
+		
 		<production count="1" id="1539" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
+		<ingredient count="20000" id="57" />
+		
 		<production count="1" id="1540" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5234" />
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- Freya's Art of Seduction (EXP) -->
+		<production count="1" id="47664" />
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- Freya' Art of Seduction (BARRIER) -->
+		<production count="1" id="47663" />
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="5" id="36515" />
+		<!-- PA Art of Seduction  -->
+		<production count="1" id="24355" />
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- Valiant Scroll  -->
+		<production count="1" id="37867" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5235" />
+		<ingredient count="500" id="36515" />
+		<!-- Freya's Ice Rose -->
+		<production count="1" id="48830" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5236" />
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- Protein Energy Drink  -->
+		<production count="1" id="36336" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5237" />
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- Adrenaline Energy Drink  -->
+		<production count="1" id="36334" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5238" />
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- Caffeine Energy Drink  -->
+		<production count="1" id="36335" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5239" />
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- DHA Energy Drink  -->
+		<production count="1" id="36337" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5240" />
+		<!-- Elcyum -->
+		<ingredient count="10" id="36515" />
+		<!-- Omega 3 Energy Drink  -->
+		<production count="1" id="36338" />
 	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5241" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5242" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5243" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5244" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5245" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5246" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5247" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="5248" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="9997" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="9998" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="9999" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="10000" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="10001" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="200000" id="57" />
-		<production count="1" id="10002" />
-	</item>
-
 </list>

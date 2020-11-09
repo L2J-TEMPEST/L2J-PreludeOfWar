@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10000000000" id="57" />
+		<!-- Limited Leviathan Breastplate -->
+		<production count="1" id="80105" />
+		<!-- Limited Leviathan Helmet -->
+		<production count="1" id="80104" />
+		<!-- Limited Leviathan Gaiters -->
+		<production count="1" id="80106" />
+		<!-- Limited Leviathan Gauntlets -->
+		<production count="1" id="80107" />
+		<!-- Limited Leviathan Boots -->
+		<production count="1" id="80108" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10000000000" id="57" />
+		<!-- Limited Leviathan Leather Armor -->
+		<production count="1" id="80111" />
+		<!-- Limited Leviathan Leather Helmet -->
+		<production count="1" id="80110" />
+		<!-- Limited Leviathan Leather Leggings -->
+		<production count="1" id="80112" />
+		<!-- Limited Leviathan Leather Gloves -->
+		<production count="1" id="80113" />
+		<!-- Limited Leviathan Leather Boots -->
+		<production count="1" id="80114" />
+	</item>
+		<item>
+		<!-- Adena -->
+		<ingredient count="10000000000" id="57" />
+		<!-- Limited Leviathan Tunic -->
+		<production count="1" id="80116" />
+		<!-- Limited Leviathan Circlet -->
+		<production count="1" id="80115" />
+		<!-- Limited Leviathan Stocking -->
+		<production count="1" id="80117" />
+		<!-- Limited Leviathan Gloves -->
+		<production count="1" id="80118" />
+		<!-- Limited Leviathan Shoes -->
+		<production count="1" id="80119" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1500000000" id="57" />
+		<!-- Enchanted Leviathan Sigil -->
+		<production count="1" id="80120" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1500000000" id="57" />
+		<!-- Enchanted Leviathan Shield -->
+		<production count="1" id="80109" />
+	</item>
+</list>

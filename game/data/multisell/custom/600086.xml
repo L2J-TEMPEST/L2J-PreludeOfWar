@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Gran Kain Necklace -->
+	<item>
+		<ingredient count="10000000000" id="57" /> <!-- Adena -->
+		<ingredient count="590" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<production count="1" id="27678" /> <!-- Gran Kain Necklace - Satage 1 -->
+	</item>
+	<item>
+		<ingredient count="20000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27678" /> <!-- Gran Kain Necklace - Satage 1 -->
+		<production count="1" id="27679" /> <!-- Gran Kain Necklace - Satage 2 -->
+	</item>
+	<item>
+		<ingredient count="30000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27679" /> <!-- Gran Kain Necklace - Satage 2 -->
+		<production count="1" id="27680" /> <!-- Gran Kain Necklace - Satage 3 -->
+	</item>
+	<item>
+		<ingredient count="40000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1770" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27680" /> <!-- Gran Kain Necklace - Satage 3 -->
+		<production count="1" id="27681" /> <!-- Gran Kain Necklace - Satage 4 -->
+	</item>
+	<item>
+		<ingredient count="50000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2360" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27681" /> <!-- Gran Kain Necklace - Satage 4 -->
+		<production count="1" id="27682" /> <!-- Gran Kain Necklace - Satage 5 -->
+	</item>
+	<item>
+		<ingredient count="60000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2950" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27682" /> <!-- Gran Kain Necklace - Satage 5 -->
+		<production count="1" id="27683" /> <!-- Gran Kain Necklace - Satage 6 -->
+	</item>
+	<!-- Einhasads Necklace -->
+	<item>
+		<ingredient count="10000000000" id="57" /> <!-- Adena -->
+		<ingredient count="590" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<production count="1" id="27684" /> <!-- Einhasads Necklace  - Stage 1 -->
+	</item>
+	<item>
+		<ingredient count="20000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27684" /> <!-- Einhasads Necklace - Satage 1 -->
+		<production count="1" id="27685" /> <!-- Einhasads Necklace - Satage 2 -->
+	</item>
+	<item>
+		<ingredient count="30000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27685" /> <!-- Einhasads Necklace - Satage 2 -->
+		<production count="1" id="27686" /> <!-- Einhasads Necklace - Satage 3 -->
+	</item>
+	<item>
+		<ingredient count="40000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1770" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27686" /> <!-- Einhasads Necklace - Satage 3 -->
+		<production count="1" id="27687" /> <!-- Einhasads Necklace - Satage 4 -->
+	</item>
+	<item>
+		<ingredient count="50000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2360" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27687" /> <!-- Einhasads Necklace - Satage 4 -->
+		<production count="1" id="27688" /> <!-- Einhasads Necklace - Satage 5 -->
+	</item>
+	<item>
+		<ingredient count="60000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2950" id="27714" /> <!-- Bottle of Luminous God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27688" /> <!-- Einhasads Necklace - Satage 5 -->
+		<production count="1" id="27689" /> <!-- Einhasads Necklace - Satage 6 -->
+	</item>
+	<!-- Paagrio Earring -->
+	<item>
+		<ingredient count="10000000000" id="57" /> <!-- Adena -->
+		<ingredient count="590" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<production count="1" id="27690" /> <!-- Paagrio Earring  - Stage 1 -->
+	</item>
+	<item>
+		<ingredient count="20000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27690" /> <!-- Paagrio Earring - Satage 1 -->
+		<production count="1" id="27691" /> <!-- Paagrio Earring - Satage 2 -->
+	</item>
+	<item>
+		<ingredient count="30000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27691" /> <!-- Paagrio Earring - Satage 2 -->
+		<production count="1" id="27692" /> <!-- Paagrio Earring - Satage 3 -->
+	</item>
+	<item>
+		<ingredient count="40000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1770" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27692" /> <!-- Paagrio Earring - Satage 3 -->
+		<production count="1" id="27693" /> <!-- Paagrio Earring - Satage 4 -->
+	</item>
+	<item>
+		<ingredient count="50000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2360" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27693" /> <!-- Paagrio Earring - Satage 4 -->
+		<production count="1" id="27694" /> <!-- Paagrio Earring - Satage 5 -->
+	</item>
+	<item>
+		<ingredient count="60000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2950" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27694" /> <!-- Paagrio Earring - Satage 5 -->
+		<production count="1" id="27695" /> <!-- Paagrio Earring - Satage 6 -->
+	</item>
+	<!-- Eva Earring -->
+	<item>
+		<ingredient count="10000000000" id="57" /> <!-- Adena -->
+		<ingredient count="590" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<production count="1" id="27696" /> <!-- Eva Earring  - Stage 1 -->
+	</item>
+	<item>
+		<ingredient count="20000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27696" /> <!-- Eva Earring - Satage 1 -->
+		<production count="1" id="27697" /> <!-- Eva Earring - Satage 2 -->
+	</item>
+	<item>
+		<ingredient count="30000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27697" /> <!-- Eva Earring - Satage 2 -->
+		<production count="1" id="27698" /> <!-- Eva Earring - Satage 3 -->
+	</item>
+	<item>
+		<ingredient count="40000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1770" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27698" /> <!-- Eva Earring - Satage 3 -->
+		<production count="1" id="27699" /> <!-- Eva Earring - Satage 4 -->
+	</item>
+	<item>
+		<ingredient count="50000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2360" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27699" /> <!-- Eva Earring - Satage 4 -->
+		<production count="1" id="27700" /> <!-- Eva Earring - Satage 5 -->
+	</item>
+	<item>
+		<ingredient count="60000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2950" id="27715" /> <!-- Bottle of Splendid God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27700" /> <!-- Eva Earring - Satage 5 -->
+		<production count="1" id="27701" /> <!-- Eva Earring - Satage 6 -->
+	</item>
+	<!-- Sayha's Ring -->
+	<item>
+		<ingredient count="10000000000" id="57" /> <!-- Adena -->
+		<ingredient count="590" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<production count="1" id="27702" /> <!-- Sayha's Ring  - Stage 1 -->
+	</item>
+	<item>
+		<ingredient count="20000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27702" /> <!-- Sayha's Ring - Satage 1 -->
+		<production count="1" id="27703" /> <!-- Sayha's Ring - Satage 2 -->
+	</item>
+	<item>
+		<ingredient count="30000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27703" /> <!-- Sayha's Ring - Satage 2 -->
+		<production count="1" id="27704" /> <!-- Sayha's Ring - Satage 3 -->
+	</item>
+	<item>
+		<ingredient count="40000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1770" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27704" /> <!-- Sayha's Ring - Satage 3 -->
+		<production count="1" id="27705" /> <!-- Sayha's Ring - Satage 4 -->
+	</item>
+	<item>
+		<ingredient count="50000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2360" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27705" /> <!-- Sayha's Ring - Satage 4 -->
+		<production count="1" id="27706" /> <!-- Sayha's Ring - Satage 5 -->
+	</item>
+	<item>
+		<ingredient count="60000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2950" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27706" /> <!-- Sayha's Ring - Satage 5 -->
+		<production count="1" id="27707" /> <!-- Sayha's Ring - Satage 6 -->
+	</item>
+	<!-- Maphr's Ring -->
+	<item>
+		<ingredient count="10000000000" id="57" /> <!-- Adena -->
+		<ingredient count="590" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<production count="1" id="27708" /> <!-- Maphr's Ring  - Stage 1 -->
+	</item>
+	<item>
+		<ingredient count="20000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28481" /> <!-- Low-Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27708" /> <!-- Maphr's Ring - Satage 1 -->
+		<production count="1" id="27709" /> <!-- Maphr's Ring - Satage 2 -->
+	</item>
+	<item>
+		<ingredient count="30000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1180" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27709" /> <!-- Maphr's Ring - Satage 2 -->
+		<production count="1" id="27710" /> <!-- Maphr's Ring - Satage 3 -->
+	</item>
+	<item>
+		<ingredient count="40000000000" id="57" /> <!-- Adena -->
+		<ingredient count="1770" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28482" /> <!-- Intermediate Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27710" /> <!-- Maphr's Ring - Satage 3 -->
+		<production count="1" id="27711" /> <!-- Maphr's Ring - Satage 4 -->
+	</item>
+	<item>
+		<ingredient count="50000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2360" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27711" /> <!-- Maphr's Ring - Satage 4 -->
+		<production count="1" id="27712" /> <!-- Maphr's Ring - Satage 5 -->
+	</item>
+	<item>
+		<ingredient count="60000000000" id="57" /> <!-- Adena -->
+		<ingredient count="2950" id="27716" /> <!-- Bottle of Honorable God's Soul -->
+		<ingredient count="1" id="28483" /> <!-- Hig Grade Forbidden Secret Book -->
+		<ingredient count="2000" id="6673" /> <!-- Festival Adena -->
+		<ingredient count="7000" id="19440" /> <!-- Gemstone R -->
+		<ingredient count="1" id="27712" /> <!-- Maphr's Ring - Satage 5 -->
+		<production count="1" id="27713" /> <!-- Maphr's Ring - Satage 6 -->
+	</item>
+</list>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

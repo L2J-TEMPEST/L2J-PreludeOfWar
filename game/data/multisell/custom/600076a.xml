@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80090" /><!-- Krishna Shaper -->
+	</item>
+	<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80091" /><!-- Krishna Cutter -->
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80092" /><!-- Krishna Slasher --> 
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80093" /><!-- Krishna Avenger --> Blunt
+	</item>
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80094" /><!-- Krishna Figther --> Fist
+	</item>
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80095" /><!-- Krishna Stromer --> Spear
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80096" /><!-- Krishna Thrower --> Bow 
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80097" /><!-- Krishna Shooter --> Crossbow
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80098" /><!-- Krishna Buster --> Magic Sword
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80099" /><!-- Krishna Caster --> Staff
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80100" /><!-- Krishna Retributer --> Staff 2 handed
+	</item>	
+		<item>
+		<!-- Adena -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80101" /><!-- Krishna Dual Sword -->
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80102" /><!-- Krishna Dual Dagger --> 
+	</item>	
+		<item>
+		<!-- Elcyum -->
+		<ingredient count="1000" id="36515" />
+		<production count="1" id="80103" /><!-- Krishna Dual Blunt --> 
+		</item>		
+</list>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+   <item>
+		<!-- Adena -->                                <!-- Fragment -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="200" id="36515" />
+		<ingredient count="10" id="6393" />
+		<production count="1" id="36434" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="200" id="36515" />
+		<ingredient count="10" id="6393" />
+		<production count="1" id="36435" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="200" id="36515" />
+		<ingredient count="10" id="6393" />
+		<production count="1" id="36436" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="200" id="36515" />
+		<ingredient count="10" id="6393" />
+		<production count="1" id="36437" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="200" id="36515" />
+		<ingredient count="10" id="6393" />
+		<production count="1" id="36438" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="200" id="36515" />
+		<ingredient count="10" id="6393" />
+		<production count="1" id="36439" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500000000" id="57" />
+		<ingredient count="200" id="36515" />
+		<ingredient count="10" id="6393" />
+		<production count="1" id="36440" />
+	</item>
+	<item>
+		<!-- Adena -->                             <!-- Standar -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="2000" id="36515" />
+		<ingredient count="100" id="6393" />
+		<ingredient count="1" id="36434" />
+		<ingredient count="1" id="36414" />
+		<production count="1" id="36458" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="2000" id="36515" />
+		<ingredient count="100" id="6393" />
+		<ingredient count="1" id="36435" />
+		<ingredient count="1" id="36414" />
+		<production count="1" id="36459" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="2000" id="36515" />
+		<ingredient count="100" id="6393" />
+		<ingredient count="1" id="36436" />
+		<ingredient count="1" id="36414" />
+		<production count="1" id="36460" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="2000" id="36515" />
+		<ingredient count="100" id="6393" />
+		<ingredient count="1" id="36437" />
+		<ingredient count="1" id="36414" />
+		<production count="1" id="36461" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="2000" id="36515" />
+		<ingredient count="100" id="6393" />
+		<ingredient count="1" id="36438" />
+		<ingredient count="1" id="36414" />
+		<production count="1" id="36462" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="2000" id="36515" />
+		<ingredient count="100" id="6393" />
+		<ingredient count="1" id="36439" />
+		<ingredient count="1" id="36414" />
+		<production count="1" id="36463" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="2000" id="36515" />
+		<ingredient count="100" id="6393" />
+		<ingredient count="1" id="36440" />
+		<ingredient count="1" id="36414" />
+		<production count="1" id="36464" />
+	</item>
+	<item>
+		<!-- Adena -->                               <!-- High Grade -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="10000" id="36515" />
+		<ingredient count="150" id="6393" />
+		<ingredient count="1" id="36458" />
+		<ingredient count="2" id="36414" />
+		<production count="1" id="36482" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="10000" id="36515" />
+		<ingredient count="150" id="6393" />
+		<ingredient count="1" id="36459" />
+		<ingredient count="2" id="36414" />
+		<production count="1" id="36483" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="10000" id="36515" />
+		<ingredient count="150" id="6393" />
+		<ingredient count="1" id="36460" />
+		<ingredient count="2" id="36414" />
+		<production count="1" id="36484" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="10000" id="36515" />
+		<ingredient count="150" id="6393" />
+		<ingredient count="1" id="36461" />
+		<ingredient count="2" id="36414" />
+		<production count="1" id="36485" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="10000" id="36515" />
+		<ingredient count="150" id="6393" />
+		<ingredient count="1" id="36462" />
+		<ingredient count="2" id="36414" />
+		<production count="1" id="36486" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="10000" id="36515" />
+		<ingredient count="150" id="6393" />
+		<ingredient count="1" id="36463" />
+		<ingredient count="2" id="36414" />
+		<production count="1" id="36487" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000000000" id="57" />
+		<ingredient count="10000" id="36515" />
+		<ingredient count="150" id="6393" />
+		<ingredient count="1" id="36464" />
+		<ingredient count="2" id="36414" />
+		<production count="1" id="36488" />
+	</item>
+	<item>
+		<!-- Adena -->                            <!-- Top Grade -->
+		<ingredient count="5000000000" id="57" />
+		<ingredient count="50000" id="36515" />
+		<ingredient count="2000" id="6393" />
+		<ingredient count="1" id="36482" />
+		<ingredient count="30" id="36414" />
+		<production count="1" id="36506" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000000" id="57" />
+		<ingredient count="50000" id="36515" />
+		<ingredient count="2000" id="6393" />
+		<ingredient count="1" id="36483" />
+		<ingredient count="30" id="36414" />
+		<production count="1" id="36507" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000000" id="57" />
+		<ingredient count="50000" id="36515" />
+		<ingredient count="2000" id="6393" />
+		<ingredient count="1" id="36484" />
+		<ingredient count="30" id="36414" />
+		<production count="1" id="36508" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000000" id="57" />
+		<ingredient count="50000" id="36515" />
+		<ingredient count="2000" id="6393" />
+		<ingredient count="1" id="36485" />
+		<ingredient count="30" id="36414" />
+		<production count="1" id="36509" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000000" id="57" />
+		<ingredient count="50000" id="36515" />
+		<ingredient count="2000" id="6393" />
+		<ingredient count="1" id="36486" />
+		<ingredient count="30" id="36414" />
+		<production count="1" id="36510" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000000" id="57" />
+		<ingredient count="50000" id="36515" />
+		<ingredient count="2000" id="6393" />
+		<ingredient count="1" id="36487" />
+		<ingredient count="30" id="36414" />
+		<production count="1" id="36511" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5000000000" id="57" />
+		<ingredient count="50000" id="36515" />
+		<ingredient count="2000" id="6393" />
+		<ingredient count="1" id="36488" />
+		<ingredient count="30" id="36414" />
+		<production count="1" id="36512" />
+	</item>
+</list>
