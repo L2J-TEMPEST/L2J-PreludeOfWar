@@ -181,3 +181,4 @@ L2-thai
 -Provisional Clan Halls
 -Mystic Tavern instanced zones
 ```
+edit20
