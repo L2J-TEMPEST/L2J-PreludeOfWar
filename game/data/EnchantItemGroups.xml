@@ -56,6 +56,7 @@
 			<item slot="hairall" /> <!-- Hair Accessories -->
 			<item slot="back" /> <!-- Cloaks -->
 			<item slot="agathion" /> <!-- Agathion Charm -->
+			<item slot="rbracelet" /> <!--braceletes --> <!--By Niniel-->
 		</enchantRate>
 		<!-- Bind only full armor group to to full armor slot items. -->
 		<enchantRate group="FULL_ARMOR_GROUP">
